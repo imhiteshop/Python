@@ -1,5 +1,3 @@
-# Python program to test
-# internet speed
 
 import speedtest
 
